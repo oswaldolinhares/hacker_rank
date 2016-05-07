@@ -2,7 +2,7 @@
 inputString = gets.chomp
 
 # Modifica variável para a entrada do HackerRank
-inputString = "Welcome to 30 Days of Code!"
+#inputString = "Welcome to 30 Days of Code!"
 
 # Imprime a primeira linha
 puts 'Hello, World.'
